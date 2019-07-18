@@ -1,0 +1,1084 @@
+[main]
+host = https://www.transifex.com
+type = PO
+
+[odoo-ecuador.account-pot]
+file_filter = <lang>.po
+source_file = account.pot
+source_lang = en
+
+[odoo-ecuador.account_analytic_default-pot]
+file_filter = <lang>.po
+source_file = account_analytic_default.pot
+source_lang = en
+
+[odoo-ecuador.account_bank_statement_import-pot]
+file_filter = <lang>.po
+source_file = account_bank_statement_import.pot
+source_lang = en
+
+[odoo-ecuador.account_cancel-pot]
+file_filter = <lang>.po
+source_file = account_cancel.pot
+source_lang = en
+
+[odoo-ecuador.account_check_printing-pot]
+file_filter = <lang>.po
+source_file = account_check_printing.pot
+source_lang = en
+
+[odoo-ecuador.account_payment-pot]
+file_filter = <lang>.po
+source_file = account_payment.pot
+source_lang = en
+
+[odoo-ecuador.account_tax_python-pot]
+file_filter = <lang>.po
+source_file = account_tax_python.pot
+source_lang = en
+
+[odoo-ecuador.account_test-pot]
+file_filter = <lang>.po
+source_file = account_test.pot
+source_lang = en
+
+[odoo-ecuador.account_voucher-pot]
+file_filter = <lang>.po
+source_file = account_voucher.pot
+source_lang = en
+
+[odoo-ecuador.analytic-pot]
+file_filter = <lang>.po
+source_file = analytic.pot
+source_lang = en
+
+[odoo-ecuador.association-pot]
+file_filter = <lang>.po
+source_file = association.pot
+source_lang = en
+
+[odoo-ecuador.auth_ldap-pot]
+file_filter = <lang>.po
+source_file = auth_ldap.pot
+source_lang = en
+
+[odoo-ecuador.auth_oauth-pot]
+file_filter = <lang>.po
+source_file = auth_oauth.pot
+source_lang = en
+
+[odoo-ecuador.auth_password_policy-pot]
+file_filter = <lang>.po
+source_file = auth_password_policy.pot
+source_lang = en
+
+[odoo-ecuador.auth_password_policy_signup-pot]
+file_filter = <lang>.po
+source_file = auth_password_policy_signup.pot
+source_lang = en
+
+[odoo-ecuador.auth_signup-pot]
+file_filter = <lang>.po
+source_file = auth_signup.pot
+source_lang = en
+
+[odoo-ecuador.barcodes-pot]
+file_filter = <lang>.po
+source_file = barcodes.pot
+source_lang = en
+
+[odoo-ecuador.base-pot]
+file_filter = <lang>.po
+source_file = base.pot
+source_lang = en
+
+[odoo-ecuador.base_address_city-pot]
+file_filter = <lang>.po
+source_file = base_address_city.pot
+source_lang = en
+
+[odoo-ecuador.base_address_extended-pot]
+file_filter = <lang>.po
+source_file = base_address_extended.pot
+source_lang = en
+
+[odoo-ecuador.base_automation-pot]
+file_filter = <lang>.po
+source_file = base_automation.pot
+source_lang = en
+
+[odoo-ecuador.base_gengo-pot]
+file_filter = <lang>.po
+source_file = base_gengo.pot
+source_lang = en
+
+[odoo-ecuador.base_geolocalize-pot]
+file_filter = <lang>.po
+source_file = base_geolocalize.pot
+source_lang = en
+
+[odoo-ecuador.base_iban-pot]
+file_filter = <lang>.po
+source_file = base_iban.pot
+source_lang = en
+
+[odoo-ecuador.base_import-pot]
+file_filter = <lang>.po
+source_file = base_import.pot
+source_lang = en
+
+[odoo-ecuador.base_import_module-pot]
+file_filter = <lang>.po
+source_file = base_import_module.pot
+source_lang = en
+
+[odoo-ecuador.base_setup-pot]
+file_filter = <lang>.po
+source_file = base_setup.pot
+source_lang = en
+
+[odoo-ecuador.base_sparse_field-pot]
+file_filter = <lang>.po
+source_file = base_sparse_field.pot
+source_lang = en
+
+[odoo-ecuador.base_vat-pot]
+file_filter = <lang>.po
+source_file = base_vat.pot
+source_lang = en
+
+[odoo-ecuador.board-pot]
+file_filter = <lang>.po
+source_file = board.pot
+source_lang = en
+
+[odoo-ecuador.bus-pot]
+file_filter = <lang>.po
+source_file = bus.pot
+source_lang = en
+
+[odoo-ecuador.calendar-pot]
+file_filter = <lang>.po
+source_file = calendar.pot
+source_lang = en
+
+[odoo-ecuador.calendar_sms-pot]
+file_filter = <lang>.po
+source_file = calendar_sms.pot
+source_lang = en
+
+[odoo-ecuador.contacts-pot]
+file_filter = <lang>.po
+source_file = contacts.pot
+source_lang = en
+
+[odoo-ecuador.crm-pot]
+file_filter = <lang>.po
+source_file = crm.pot
+source_lang = en
+
+[odoo-ecuador.crm_livechat-pot]
+file_filter = <lang>.po
+source_file = crm_livechat.pot
+source_lang = en
+
+[odoo-ecuador.crm_phone_validation-pot]
+file_filter = <lang>.po
+source_file = crm_phone_validation.pot
+source_lang = en
+
+[odoo-ecuador.crm_project-pot]
+file_filter = <lang>.po
+source_file = crm_project.pot
+source_lang = en
+
+[odoo-ecuador.crm_reveal-pot]
+file_filter = <lang>.po
+source_file = crm_reveal.pot
+source_lang = en
+
+[odoo-ecuador.decimal_precision-pot]
+file_filter = <lang>.po
+source_file = decimal_precision.pot
+source_lang = en
+
+[odoo-ecuador.delivery-pot]
+file_filter = <lang>.po
+source_file = delivery.pot
+source_lang = en
+
+[odoo-ecuador.digest-pot]
+file_filter = <lang>.po
+source_file = digest.pot
+source_lang = en
+
+[odoo-ecuador.document-pot]
+file_filter = <lang>.po
+source_file = document.pot
+source_lang = en
+
+[odoo-ecuador.event-pot]
+file_filter = <lang>.po
+source_file = event.pot
+source_lang = en
+
+[odoo-ecuador.event_sale-pot]
+file_filter = <lang>.po
+source_file = event_sale.pot
+source_lang = en
+
+[odoo-ecuador.fetchmail-pot]
+file_filter = <lang>.po
+source_file = fetchmail.pot
+source_lang = en
+
+[odoo-ecuador.fleet-pot]
+file_filter = <lang>.po
+source_file = fleet.pot
+source_lang = en
+
+[odoo-ecuador.gamification-pot]
+file_filter = <lang>.po
+source_file = gamification.pot
+source_lang = en
+
+[odoo-ecuador.gamification_sale_crm-pot]
+file_filter = <lang>.po
+source_file = gamification_sale_crm.pot
+source_lang = en
+
+[odoo-ecuador.google_account-pot]
+file_filter = <lang>.po
+source_file = google_account.pot
+source_lang = en
+
+[odoo-ecuador.google_base_account-pot]
+file_filter = <lang>.po
+source_file = google_base_account.pot
+source_lang = en
+
+[odoo-ecuador.google_calendar-pot]
+file_filter = <lang>.po
+source_file = google_calendar.pot
+source_lang = en
+
+[odoo-ecuador.google_drive-pot]
+file_filter = <lang>.po
+source_file = google_drive.pot
+source_lang = en
+
+[odoo-ecuador.google_spreadsheet-pot]
+file_filter = <lang>.po
+source_file = google_spreadsheet.pot
+source_lang = en
+
+[odoo-ecuador.hr-pot]
+file_filter = <lang>.po
+source_file = hr.pot
+source_lang = en
+
+[odoo-ecuador.hr_attendance-pot]
+file_filter = <lang>.po
+source_file = hr_attendance.pot
+source_lang = en
+
+[odoo-ecuador.hr_contract-pot]
+file_filter = <lang>.po
+source_file = hr_contract.pot
+source_lang = en
+
+[odoo-ecuador.hr_expense-pot]
+file_filter = <lang>.po
+source_file = hr_expense.pot
+source_lang = en
+
+[odoo-ecuador.hr_expense_check-pot]
+file_filter = <lang>.po
+source_file = hr_expense_check.pot
+source_lang = en
+
+[odoo-ecuador.hr_gamification-pot]
+file_filter = <lang>.po
+source_file = hr_gamification.pot
+source_lang = en
+
+[odoo-ecuador.hr_holidays-pot]
+file_filter = <lang>.po
+source_file = hr_holidays.pot
+source_lang = en
+
+[odoo-ecuador.hr_maintenance-pot]
+file_filter = <lang>.po
+source_file = hr_maintenance.pot
+source_lang = en
+
+[odoo-ecuador.hr_org_chart-pot]
+file_filter = <lang>.po
+source_file = hr_org_chart.pot
+source_lang = en
+
+[odoo-ecuador.hr_payroll-pot]
+file_filter = <lang>.po
+source_file = hr_payroll.pot
+source_lang = en
+
+[odoo-ecuador.hr_payroll_account-pot]
+file_filter = <lang>.po
+source_file = hr_payroll_account.pot
+source_lang = en
+
+[odoo-ecuador.hr_recruitment-pot]
+file_filter = <lang>.po
+source_file = hr_recruitment.pot
+source_lang = en
+
+[odoo-ecuador.hr_recruitment_survey-pot]
+file_filter = <lang>.po
+source_file = hr_recruitment_survey.pot
+source_lang = en
+
+[odoo-ecuador.hr_timesheet-pot]
+file_filter = <lang>.po
+source_file = hr_timesheet.pot
+source_lang = en
+
+[odoo-ecuador.hr_timesheet_attendance-pot]
+file_filter = <lang>.po
+source_file = hr_timesheet_attendance.pot
+source_lang = en
+
+[odoo-ecuador.http_routing-pot]
+file_filter = <lang>.po
+source_file = http_routing.pot
+source_lang = en
+
+[odoo-ecuador.hw_escpos-pot]
+file_filter = <lang>.po
+source_file = hw_escpos.pot
+source_lang = en
+
+[odoo-ecuador.hw_proxy-pot]
+file_filter = <lang>.po
+source_file = hw_proxy.pot
+source_lang = en
+
+[odoo-ecuador.hw_scale-pot]
+file_filter = <lang>.po
+source_file = hw_scale.pot
+source_lang = en
+
+[odoo-ecuador.hw_scanner-pot]
+file_filter = <lang>.po
+source_file = hw_scanner.pot
+source_lang = en
+
+[odoo-ecuador.iap-pot]
+file_filter = <lang>.po
+source_file = iap.pot
+source_lang = en
+
+[odoo-ecuador.im_livechat-pot]
+file_filter = <lang>.po
+source_file = im_livechat.pot
+source_lang = en
+
+[odoo-ecuador.im_livechat_mail_bot-pot]
+file_filter = <lang>.po
+source_file = im_livechat_mail_bot.pot
+source_lang = en
+
+[odoo-ecuador.im_support-pot]
+file_filter = <lang>.po
+source_file = im_support.pot
+source_lang = en
+
+[odoo-ecuador.l10n_au-pot]
+file_filter = <lang>.po
+source_file = l10n_au.pot
+source_lang = en
+
+[odoo-ecuador.l10n_be-pot]
+file_filter = <lang>.po
+source_file = l10n_be.pot
+source_lang = en
+
+[odoo-ecuador.l10n_be_hr_payroll-pot]
+file_filter = <lang>.po
+source_file = l10n_be_hr_payroll.pot
+source_lang = en
+
+[odoo-ecuador.l10n_be_invoice_bba-pot]
+file_filter = <lang>.po
+source_file = l10n_be_invoice_bba.pot
+source_lang = en
+
+[odoo-ecuador.l10n_ca-pot]
+file_filter = <lang>.po
+source_file = l10n_ca.pot
+source_lang = en
+
+[odoo-ecuador.l10n_ch-pot]
+file_filter = <lang>.po
+source_file = l10n_ch.pot
+source_lang = en
+
+[odoo-ecuador.l10n_cn_small_business-pot]
+file_filter = <lang>.po
+source_file = l10n_cn_small_business.pot
+source_lang = en
+
+[odoo-ecuador.l10n_cn_standard-pot]
+file_filter = <lang>.po
+source_file = l10n_cn_standard.pot
+source_lang = en
+
+[odoo-ecuador.l10n_fr-pot]
+file_filter = <lang>.po
+source_file = l10n_fr.pot
+source_lang = en
+
+[odoo-ecuador.l10n_fr_fec-pot]
+file_filter = <lang>.po
+source_file = l10n_fr_fec.pot
+source_lang = en
+
+[odoo-ecuador.l10n_fr_hr_payroll-pot]
+file_filter = <lang>.po
+source_file = l10n_fr_hr_payroll.pot
+source_lang = en
+
+[odoo-ecuador.l10n_it_edi-pot]
+file_filter = <lang>.po
+source_file = l10n_it_edi.pot
+source_lang = en
+
+[odoo-ecuador.l10n_lu_multilang-pot]
+file_filter = <lang>.po
+source_file = l10n_lu_multilang.pot
+source_lang = en
+
+[odoo-ecuador.l10n_multilang-pot]
+file_filter = <lang>.po
+source_file = l10n_multilang.pot
+source_lang = en
+
+[odoo-ecuador.l10n_mx-pot]
+file_filter = <lang>.po
+source_file = l10n_mx.pot
+source_lang = en
+
+[odoo-ecuador.l10n_nl-pot]
+file_filter = <lang>.po
+source_file = l10n_nl.pot
+source_lang = en
+
+[odoo-ecuador.l10n_ua-pot]
+file_filter = <lang>.po
+source_file = l10n_ua.pot
+source_lang = en
+
+[odoo-ecuador.link_tracker-pot]
+file_filter = <lang>.po
+source_file = link_tracker.pot
+source_lang = en
+
+[odoo-ecuador.lunch-pot]
+file_filter = <lang>.po
+source_file = lunch.pot
+source_lang = en
+
+[odoo-ecuador.mail-pot]
+file_filter = <lang>.po
+source_file = mail.pot
+source_lang = en
+
+[odoo-ecuador.mail_bot-pot]
+file_filter = <lang>.po
+source_file = mail_bot.pot
+source_lang = en
+
+[odoo-ecuador.maintenance-pot]
+file_filter = <lang>.po
+source_file = maintenance.pot
+source_lang = en
+
+[odoo-ecuador.mass_mailing-pot]
+file_filter = <lang>.po
+source_file = mass_mailing.pot
+source_lang = en
+
+[odoo-ecuador.mass_mailing_crm-pot]
+file_filter = <lang>.po
+source_file = mass_mailing_crm.pot
+source_lang = en
+
+[odoo-ecuador.mass_mailing_event-pot]
+file_filter = <lang>.po
+source_file = mass_mailing_event.pot
+source_lang = en
+
+[odoo-ecuador.mass_mailing_event_track-pot]
+file_filter = <lang>.po
+source_file = mass_mailing_event_track.pot
+source_lang = en
+
+[odoo-ecuador.mass_mailing_sale-pot]
+file_filter = <lang>.po
+source_file = mass_mailing_sale.pot
+source_lang = en
+
+[odoo-ecuador.membership-pot]
+file_filter = <lang>.po
+source_file = membership.pot
+source_lang = en
+
+[odoo-ecuador.mrp-pot]
+file_filter = <lang>.po
+source_file = mrp.pot
+source_lang = en
+
+[odoo-ecuador.mrp_bom_cost-pot]
+file_filter = <lang>.po
+source_file = mrp_bom_cost.pot
+source_lang = en
+
+[odoo-ecuador.mrp_byproduct-pot]
+file_filter = <lang>.po
+source_file = mrp_byproduct.pot
+source_lang = en
+
+[odoo-ecuador.note-pot]
+file_filter = <lang>.po
+source_file = note.pot
+source_lang = en
+
+[odoo-ecuador.note_pad-pot]
+file_filter = <lang>.po
+source_file = note_pad.pot
+source_lang = en
+
+[odoo-ecuador.pad-pot]
+file_filter = <lang>.po
+source_file = pad.pot
+source_lang = en
+
+[odoo-ecuador.pad_project-pot]
+file_filter = <lang>.po
+source_file = pad_project.pot
+source_lang = en
+
+[odoo-ecuador.partner_autocomplete-pot]
+file_filter = <lang>.po
+source_file = partner_autocomplete.pot
+source_lang = en
+
+[odoo-ecuador.payment-pot]
+file_filter = <lang>.po
+source_file = payment.pot
+source_lang = en
+
+[odoo-ecuador.payment_adyen-pot]
+file_filter = <lang>.po
+source_file = payment_adyen.pot
+source_lang = en
+
+[odoo-ecuador.payment_authorize-pot]
+file_filter = <lang>.po
+source_file = payment_authorize.pot
+source_lang = en
+
+[odoo-ecuador.payment_buckaroo-pot]
+file_filter = <lang>.po
+source_file = payment_buckaroo.pot
+source_lang = en
+
+[odoo-ecuador.payment_ogone-pot]
+file_filter = <lang>.po
+source_file = payment_ogone.pot
+source_lang = en
+
+[odoo-ecuador.payment_paypal-pot]
+file_filter = <lang>.po
+source_file = payment_paypal.pot
+source_lang = en
+
+[odoo-ecuador.payment_payumoney-pot]
+file_filter = <lang>.po
+source_file = payment_payumoney.pot
+source_lang = en
+
+[odoo-ecuador.payment_sips-pot]
+file_filter = <lang>.po
+source_file = payment_sips.pot
+source_lang = en
+
+[odoo-ecuador.payment_stripe-pot]
+file_filter = <lang>.po
+source_file = payment_stripe.pot
+source_lang = en
+
+[odoo-ecuador.payment_transfer-pot]
+file_filter = <lang>.po
+source_file = payment_transfer.pot
+source_lang = en
+
+[odoo-ecuador.phone_validation-pot]
+file_filter = <lang>.po
+source_file = phone_validation.pot
+source_lang = en
+
+[odoo-ecuador.point_of_sale-pot]
+file_filter = <lang>.po
+source_file = point_of_sale.pot
+source_lang = en
+
+[odoo-ecuador.portal-pot]
+file_filter = <lang>.po
+source_file = portal.pot
+source_lang = en
+
+[odoo-ecuador.pos_cache-pot]
+file_filter = <lang>.po
+source_file = pos_cache.pot
+source_lang = en
+
+[odoo-ecuador.pos_discount-pot]
+file_filter = <lang>.po
+source_file = pos_discount.pot
+source_lang = en
+
+[odoo-ecuador.pos_mercury-pot]
+file_filter = <lang>.po
+source_file = pos_mercury.pot
+source_lang = en
+
+[odoo-ecuador.pos_reprint-pot]
+file_filter = <lang>.po
+source_file = pos_reprint.pot
+source_lang = en
+
+[odoo-ecuador.pos_restaurant-pot]
+file_filter = <lang>.po
+source_file = pos_restaurant.pot
+source_lang = en
+
+[odoo-ecuador.pos_sale-pot]
+file_filter = <lang>.po
+source_file = pos_sale.pot
+source_lang = en
+
+[odoo-ecuador.procurement_jit-pot]
+file_filter = <lang>.po
+source_file = procurement_jit.pot
+source_lang = en
+
+[odoo-ecuador.product-pot]
+file_filter = <lang>.po
+source_file = product.pot
+source_lang = en
+
+[odoo-ecuador.product_email_template-pot]
+file_filter = <lang>.po
+source_file = product_email_template.pot
+source_lang = en
+
+[odoo-ecuador.product_expiry-pot]
+file_filter = <lang>.po
+source_file = product_expiry.pot
+source_lang = en
+
+[odoo-ecuador.product_margin-pot]
+file_filter = <lang>.po
+source_file = product_margin.pot
+source_lang = en
+
+[odoo-ecuador.project-pot]
+file_filter = <lang>.po
+source_file = project.pot
+source_lang = en
+
+[odoo-ecuador.project_timesheet_holidays-pot]
+file_filter = <lang>.po
+source_file = project_timesheet_holidays.pot
+source_lang = en
+
+[odoo-ecuador.purchase-pot]
+file_filter = <lang>.po
+source_file = purchase.pot
+source_lang = en
+
+[odoo-ecuador.purchase_mrp-pot]
+file_filter = <lang>.po
+source_file = purchase_mrp.pot
+source_lang = en
+
+[odoo-ecuador.purchase_requisition-pot]
+file_filter = <lang>.po
+source_file = purchase_requisition.pot
+source_lang = en
+
+[odoo-ecuador.purchase_stock-pot]
+file_filter = <lang>.po
+source_file = purchase_stock.pot
+source_lang = en
+
+[odoo-ecuador.rating-pot]
+file_filter = <lang>.po
+source_file = rating.pot
+source_lang = en
+
+[odoo-ecuador.repair-pot]
+file_filter = <lang>.po
+source_file = repair.pot
+source_lang = en
+
+[odoo-ecuador.resource-pot]
+file_filter = <lang>.po
+source_file = resource.pot
+source_lang = en
+
+[odoo-ecuador.sale-pot]
+file_filter = <lang>.po
+source_file = sale.pot
+source_lang = en
+
+[odoo-ecuador.sale_crm-pot]
+file_filter = <lang>.po
+source_file = sale_crm.pot
+source_lang = en
+
+[odoo-ecuador.sale_expense-pot]
+file_filter = <lang>.po
+source_file = sale_expense.pot
+source_lang = en
+
+[odoo-ecuador.sale_management-pot]
+file_filter = <lang>.po
+source_file = sale_management.pot
+source_lang = en
+
+[odoo-ecuador.sale_margin-pot]
+file_filter = <lang>.po
+source_file = sale_margin.pot
+source_lang = en
+
+[odoo-ecuador.sale_mrp-pot]
+file_filter = <lang>.po
+source_file = sale_mrp.pot
+source_lang = en
+
+[odoo-ecuador.sale_purchase-pot]
+file_filter = <lang>.po
+source_file = sale_purchase.pot
+source_lang = en
+
+[odoo-ecuador.sale_quotation_builder-pot]
+file_filter = <lang>.po
+source_file = sale_quotation_builder.pot
+source_lang = en
+
+[odoo-ecuador.sale_stock-pot]
+file_filter = <lang>.po
+source_file = sale_stock.pot
+source_lang = en
+
+[odoo-ecuador.sale_timesheet-pot]
+file_filter = <lang>.po
+source_file = sale_timesheet.pot
+source_lang = en
+
+[odoo-ecuador.sales_team-pot]
+file_filter = <lang>.po
+source_file = sales_team.pot
+source_lang = en
+
+[odoo-ecuador.sms-pot]
+file_filter = <lang>.po
+source_file = sms.pot
+source_lang = en
+
+[odoo-ecuador.snailmail-pot]
+file_filter = <lang>.po
+source_file = snailmail.pot
+source_lang = en
+
+[odoo-ecuador.snailmail_account-pot]
+file_filter = <lang>.po
+source_file = snailmail_account.pot
+source_lang = en
+
+[odoo-ecuador.social_media-pot]
+file_filter = <lang>.po
+source_file = social_media.pot
+source_lang = en
+
+[odoo-ecuador.stock-pot]
+file_filter = <lang>.po
+source_file = stock.pot
+source_lang = en
+
+[odoo-ecuador.stock_account-pot]
+file_filter = <lang>.po
+source_file = stock_account.pot
+source_lang = en
+
+[odoo-ecuador.stock_dropshipping-pot]
+file_filter = <lang>.po
+source_file = stock_dropshipping.pot
+source_lang = en
+
+[odoo-ecuador.stock_landed_costs-pot]
+file_filter = <lang>.po
+source_file = stock_landed_costs.pot
+source_lang = en
+
+[odoo-ecuador.stock_picking_batch-pot]
+file_filter = <lang>.po
+source_file = stock_picking_batch.pot
+source_lang = en
+
+[odoo-ecuador.stock_zebra-pot]
+file_filter = <lang>.po
+source_file = stock_zebra.pot
+source_lang = en
+
+[odoo-ecuador.survey-pot]
+file_filter = <lang>.po
+source_file = survey.pot
+source_lang = en
+
+[odoo-ecuador.survey_crm-pot]
+file_filter = <lang>.po
+source_file = survey_crm.pot
+source_lang = en
+
+[odoo-ecuador.test_translation_import-pot]
+file_filter = <lang>.po
+source_file = test_translation_import.pot
+source_lang = en
+
+[odoo-ecuador.theme_bootswatch-pot]
+file_filter = <lang>.po
+source_file = theme_bootswatch.pot
+source_lang = en
+
+[odoo-ecuador.transifex-pot]
+file_filter = <lang>.po
+source_file = transifex.pot
+source_lang = en
+
+[odoo-ecuador.uom-pot]
+file_filter = <lang>.po
+source_file = uom.pot
+source_lang = en
+
+[odoo-ecuador.utm-pot]
+file_filter = <lang>.po
+source_file = utm.pot
+source_lang = en
+
+[odoo-ecuador.web-pot]
+file_filter = <lang>.po
+source_file = web.pot
+source_lang = en
+
+[odoo-ecuador.web_diagram-pot]
+file_filter = <lang>.po
+source_file = web_diagram.pot
+source_lang = en
+
+[odoo-ecuador.web_editor-pot]
+file_filter = <lang>.po
+source_file = web_editor.pot
+source_lang = en
+
+[odoo-ecuador.web_kanban_gauge-pot]
+file_filter = <lang>.po
+source_file = web_kanban_gauge.pot
+source_lang = en
+
+[odoo-ecuador.web_settings_dashboard-pot]
+file_filter = <lang>.po
+source_file = web_settings_dashboard.pot
+source_lang = en
+
+[odoo-ecuador.web_tour-pot]
+file_filter = <lang>.po
+source_file = web_tour.pot
+source_lang = en
+
+[odoo-ecuador.web_unsplash-pot]
+file_filter = <lang>.po
+source_file = web_unsplash.pot
+source_lang = en
+
+[odoo-ecuador.website-pot]
+file_filter = <lang>.po
+source_file = website.pot
+source_lang = en
+
+[odoo-ecuador.website_blog-pot]
+file_filter = <lang>.po
+source_file = website_blog.pot
+source_lang = en
+
+[odoo-ecuador.website_crm-pot]
+file_filter = <lang>.po
+source_file = website_crm.pot
+source_lang = en
+
+[odoo-ecuador.website_crm_partner_assign-pot]
+file_filter = <lang>.po
+source_file = website_crm_partner_assign.pot
+source_lang = en
+
+[odoo-ecuador.website_customer-pot]
+file_filter = <lang>.po
+source_file = website_customer.pot
+source_lang = en
+
+[odoo-ecuador.website_event-pot]
+file_filter = <lang>.po
+source_file = website_event.pot
+source_lang = en
+
+[odoo-ecuador.website_event_questions-pot]
+file_filter = <lang>.po
+source_file = website_event_questions.pot
+source_lang = en
+
+[odoo-ecuador.website_event_sale-pot]
+file_filter = <lang>.po
+source_file = website_event_sale.pot
+source_lang = en
+
+[odoo-ecuador.website_event_track-pot]
+file_filter = <lang>.po
+source_file = website_event_track.pot
+source_lang = en
+
+[odoo-ecuador.website_form-pot]
+file_filter = <lang>.po
+source_file = website_form.pot
+source_lang = en
+
+[odoo-ecuador.website_forum-pot]
+file_filter = <lang>.po
+source_file = website_forum.pot
+source_lang = en
+
+[odoo-ecuador.website_gengo-pot]
+file_filter = <lang>.po
+source_file = website_gengo.pot
+source_lang = en
+
+[odoo-ecuador.website_hr-pot]
+file_filter = <lang>.po
+source_file = website_hr.pot
+source_lang = en
+
+[odoo-ecuador.website_hr_recruitment-pot]
+file_filter = <lang>.po
+source_file = website_hr_recruitment.pot
+source_lang = en
+
+[odoo-ecuador.website_links-pot]
+file_filter = <lang>.po
+source_file = website_links.pot
+source_lang = en
+
+[odoo-ecuador.website_livechat-pot]
+file_filter = <lang>.po
+source_file = website_livechat.pot
+source_lang = en
+
+[odoo-ecuador.website_mail-pot]
+file_filter = <lang>.po
+source_file = website_mail.pot
+source_lang = en
+
+[odoo-ecuador.website_mail_channel-pot]
+file_filter = <lang>.po
+source_file = website_mail_channel.pot
+source_lang = en
+
+[odoo-ecuador.website_mass_mailing-pot]
+file_filter = <lang>.po
+source_file = website_mass_mailing.pot
+source_lang = en
+
+[odoo-ecuador.website_membership-pot]
+file_filter = <lang>.po
+source_file = website_membership.pot
+source_lang = en
+
+[odoo-ecuador.website_partner-pot]
+file_filter = <lang>.po
+source_file = website_partner.pot
+source_lang = en
+
+[odoo-ecuador.website_payment-pot]
+file_filter = <lang>.po
+source_file = website_payment.pot
+source_lang = en
+
+[odoo-ecuador.website_rating-pot]
+file_filter = <lang>.po
+source_file = website_rating.pot
+source_lang = en
+
+[odoo-ecuador.website_sale-pot]
+file_filter = <lang>.po
+source_file = website_sale.pot
+source_lang = en
+
+[odoo-ecuador.website_sale_comparison-pot]
+file_filter = <lang>.po
+source_file = website_sale_comparison.pot
+source_lang = en
+
+[odoo-ecuador.website_sale_delivery-pot]
+file_filter = <lang>.po
+source_file = website_sale_delivery.pot
+source_lang = en
+
+[odoo-ecuador.website_sale_digital-pot]
+file_filter = <lang>.po
+source_file = website_sale_digital.pot
+source_lang = en
+
+[odoo-ecuador.website_sale_link_tracker-pot]
+file_filter = <lang>.po
+source_file = website_sale_link_tracker.pot
+source_lang = en
+
+[odoo-ecuador.website_sale_management-pot]
+file_filter = <lang>.po
+source_file = website_sale_management.pot
+source_lang = en
+
+[odoo-ecuador.website_sale_stock-pot]
+file_filter = <lang>.po
+source_file = website_sale_stock.pot
+source_lang = en
+
+[odoo-ecuador.website_sale_wishlist-pot]
+file_filter = <lang>.po
+source_file = website_sale_wishlist.pot
+source_lang = en
+
+[odoo-ecuador.website_slides-pot]
+file_filter = <lang>.po
+source_file = website_slides.pot
+source_lang = en
+
+[odoo-ecuador.website_theme_install-pot]
+file_filter = <lang>.po
+source_file = website_theme_install.pot
+source_lang = en
+
+[odoo-ecuador.website_twitter-pot]
+file_filter = <lang>.po
+source_file = website_twitter.pot
+source_lang = en
+
