@@ -2,12 +2,12 @@
 host = https://www.transifex.com
 type = PO
 
-[odoo-ecuador.account-pot]
+[odoo-ecuador.account.pot]
 file_filter = <lang>.po
 source_file = account.pot
 source_lang = en
 
-[odoo-ecuador.account_analytic_default-pot]
+[odoo-ecuador.account_analytic_default.pot]
 file_filter = <lang>.po
 source_file = account_analytic_default.pot
 source_lang = en
@@ -17,27 +17,27 @@ file_filter = <lang>.po
 source_file = account_bank_statement_import.pot
 source_lang = en
 
-[odoo-ecuador.account_cancel-pot]
+[odoo-ecuador.account_cancel.pot]
 file_filter = <lang>.po
 source_file = account_cancel.pot
 source_lang = en
 
-[odoo-ecuador.account_check_printing-pot]
+[odoo-ecuador.account_check_printing.pot]
 file_filter = <lang>.po
 source_file = account_check_printing.pot
 source_lang = en
 
-[odoo-ecuador.account_payment-pot]
+[odoo-ecuador.account_payment.pot]
 file_filter = <lang>.po
 source_file = account_payment.pot
 source_lang = en
 
-[odoo-ecuador.account_tax_python-pot]
+[odoo-ecuador.account_tax_python.pot]
 file_filter = <lang>.po
 source_file = account_tax_python.pot
 source_lang = en
 
-[odoo-ecuador.account_test-pot]
+[odoo-ecuador.account_test.pot]
 file_filter = <lang>.po
 source_file = account_test.pot
 source_lang = en
@@ -47,12 +47,12 @@ file_filter = <lang>.po
 source_file = account_voucher.pot
 source_lang = en
 
-[odoo-ecuador.analytic-pot]
+[odoo-ecuador.analytic.pot]
 file_filter = <lang>.po
 source_file = analytic.pot
 source_lang = en
 
-[odoo-ecuador.association-pot]
+[odoo-ecuador.association.pot]
 file_filter = <lang>.po
 source_file = association.pot
 source_lang = en
@@ -77,7 +77,7 @@ file_filter = <lang>.po
 source_file = auth_password_policy_signup.pot
 source_lang = en
 
-[odoo-ecuador.auth_signup-pot]
+[odoo-ecuador.auth_signup.pot]
 file_filter = <lang>.po
 source_file = auth_signup.pot
 source_lang = en
@@ -87,17 +87,17 @@ file_filter = <lang>.po
 source_file = barcodes.pot
 source_lang = en
 
-[odoo-ecuador.base-pot]
+[odoo-ecuador.base.pot]
 file_filter = <lang>.po
 source_file = base.pot
 source_lang = en
 
-[odoo-ecuador.base_address_city-pot]
+[odoo-ecuador.base_address_city.pot]
 file_filter = <lang>.po
 source_file = base_address_city.pot
 source_lang = en
 
-[odoo-ecuador.base_address_extended-pot]
+[odoo-ecuador.base_address_extended.pot]
 file_filter = <lang>.po
 source_file = base_address_extended.pot
 source_lang = en
@@ -127,37 +127,37 @@ file_filter = <lang>.po
 source_file = base_import.pot
 source_lang = en
 
-[odoo-ecuador.base_import_module-pot]
+[odoo-ecuador.base_import_module.pot]
 file_filter = <lang>.po
 source_file = base_import_module.pot
 source_lang = en
 
-[odoo-ecuador.base_setup-pot]
+[odoo-ecuador.base_setup.pot]
 file_filter = <lang>.po
 source_file = base_setup.pot
 source_lang = en
 
-[odoo-ecuador.base_sparse_field-pot]
+[odoo-ecuador.base_sparse_field.pot]
 file_filter = <lang>.po
 source_file = base_sparse_field.pot
 source_lang = en
 
-[odoo-ecuador.base_vat-pot]
+[odoo-ecuador.base_vat.pot]
 file_filter = <lang>.po
 source_file = base_vat.pot
 source_lang = en
 
-[odoo-ecuador.board-pot]
+[odoo-ecuador.board.pot]
 file_filter = <lang>.po
 source_file = board.pot
 source_lang = en
 
-[odoo-ecuador.bus-pot]
+[odoo-ecuador.bus.pot]
 file_filter = <lang>.po
 source_file = bus.pot
 source_lang = en
 
-[odoo-ecuador.calendar-pot]
+[odoo-ecuador.calendar.pot]
 file_filter = <lang>.po
 source_file = calendar.pot
 source_lang = en
@@ -167,7 +167,7 @@ file_filter = <lang>.po
 source_file = calendar_sms.pot
 source_lang = en
 
-[odoo-ecuador.contacts-pot]
+[odoo-ecuador.contacts.pot]
 file_filter = <lang>.po
 source_file = contacts.pot
 source_lang = en
@@ -692,7 +692,7 @@ file_filter = <lang>.po
 source_file = product_margin.pot
 source_lang = en
 
-[odoo-ecuador.project-pot]
+[odoo-ecuador.project.pot]
 file_filter = <lang>.po
 source_file = project.pot
 source_lang = en
